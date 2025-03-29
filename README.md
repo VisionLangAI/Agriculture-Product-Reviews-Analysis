@@ -42,6 +42,3 @@ The results will be stored in the `results/` directory, including model evaluati
 
 ## Contribution
 Feel free to open an issue or submit a pull request!
-
-## License
-This project is open-source under the MIT License.
